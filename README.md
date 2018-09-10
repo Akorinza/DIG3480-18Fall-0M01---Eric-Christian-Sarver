@@ -29,11 +29,8 @@ public class CameraController : MonoBehaviour {
 Player Controller
 
 using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine.UI;
-
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
